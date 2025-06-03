@@ -1,6 +1,6 @@
-# 【中国在线免费】国内可用的 ChatGPT 免费中文版镜像网站整理（5月最新更新）
+# 【中国在线免费】国内可用的 ChatGPT 免费中文版镜像网站整理（6月最新更新）
 
-> 更新：2025/05/27   
+> 更新：2025/06/04   
 
 本站收录了国内可访问且[**免费的 ChatGPT镜像网站**](https://xsimplechat.com)，有需要的可自取。
 
@@ -26,9 +26,9 @@ ChatGPT 镜像网站（ChatGPT Mirror）是指通过复制原始 ChatGPT 官网�
 
 - [https://chat.yixiaai.com/](https://xsimplechat.com/) - **ChatGPT 中文版**，运营近2年，支持 GPT4、4.0 以及 0.1，支持 AI绘画，扫码即可使用。
 - [https://chat.lify.vip/](https://chat.lanjing.pro/) - **ChatGPT 镜像网站**，运营近2年，支持 GPT4、4.0 以及 0.1，提供 AI文件、AI PPT、AI助手、AI插件功能和思维导图。
-- [https://guide1.lanjing.ai/](https://guide1.lanjing.ai/) - **ChatGPT 镜像网站**，运营1年多，支持 GPT4、4.0，支持 AI绘画（Midjourney 和 Dall·E）。
+- [https://guide1.lanjing.ai/](https://chat.lanjingai.org/) - **ChatGPT 镜像网站**，运营1年多，支持 GPT4、4.0，支持 AI绘画（Midjourney 和 Dall·E）。
 - [https://ai.lansejingyu.com/](https://ai.lansejingyu.com/) - ChatGPT-4 镜像，支持 GPT4、4.0，使用简单便捷。
-- [https://lanjing.ai/](https://lanjing.ai/) - **免费ChatGPT**，支持 GPT4、4.0，支持 MJ 绘画。
+- [https://lanjing.ai/](https://lanjing.pro/) - **免费ChatGPT**，支持 GPT4、4.0，支持 MJ 绘画。
 
 ## 国内自研大模型汇总
 
